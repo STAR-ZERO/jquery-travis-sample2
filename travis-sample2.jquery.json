@@ -1,0 +1,26 @@
+{
+  "name": "travis-sample2",
+  "title": "Travis Sample2",
+  "description": "The best jQuery plugin ever.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/STAR-ZERO/jquery-travis-sample2",
+  "author": {
+    "name": "Kenji Abe",
+    "email": "kenji@star-zero.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/STAR-ZERO/jquery-travis-sample2.git"
+  },
+  "bugs": "https://github.com/STAR-ZERO/jquery-travis-sample2/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/STAR-ZERO/jquery-travis-sample2/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "*"
+  },
+  "keywords": []
+}
